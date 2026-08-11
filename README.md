@@ -1,6 +1,6 @@
 # Decode_Labs_Internship_Tasks
 
-**Batch 2026 | Adina Rehman | GSCWU Bahawalpur**
+
 
 A collection of 4 industrial AI projects completed as part of DecodeLabs internship training program, covering the full spectrum from rule-based logic to neural networks.
 
